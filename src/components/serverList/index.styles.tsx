@@ -20,6 +20,10 @@ export const Container = styled.div`
   ::-webkit-scrollbar {
     display: none;
   }
+  /* overflow-y: scroll;
+  ::-webkit-scrollbar {
+    display: none;
+  } */
 `;
 
 export const Separator = styled.div`
